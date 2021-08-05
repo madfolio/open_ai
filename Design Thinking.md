@@ -1,5 +1,5 @@
 ```
-This was made using open.ai
+This text was generated using open.ai
 ```
 
 # Design Thinking

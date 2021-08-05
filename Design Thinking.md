@@ -1,5 +1,5 @@
 ```
-**This was made using [open.ai](open.ai)***
+This was made using open.ai
 ```
 
 # Design Thinking

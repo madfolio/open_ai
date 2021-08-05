@@ -1,5 +1,8 @@
+<p style="text-align: center;">> This was made using [open.ai](open.ai)</p>
+
+
 # Design Thinking
-> This was made using [open.ai](open.ai)
+
  
 ## 1. Introduction
 

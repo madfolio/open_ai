@@ -1,7 +1,3 @@
-```
-This text was generated using open.ai
-```
-
 # Design Thinking
 
  

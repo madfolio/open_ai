@@ -1,7 +1,8 @@
 # open_ai
 
-I am a writer. I write all the time. I write in openAi and Appendix: a note on terminology. This READE was written in OpenAI and was edited manually. 
+>> This README was written in OpenAI and was lightly edited manually.
 
+I am a writer. I write all the time. I write in openAi and Appendix: a note on terminology.  
 
 OpenAI is a non-profit artificial intelligence research company. They are trying to solve the problem of making artificial intelligence safe and beneficial for people and society. OpenAI's strategy is to pursue a number of paths at the same time, so that whatever happens, we will have a good outcome.
 

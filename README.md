@@ -1,6 +1,6 @@
 # open_ai
 
-> This README was written in OpenAI and was lightly edited manually.
+> This README was written in OpenAI and was edited manually.
 
 I am a writer. I write all the time. I write in openAi.
 
